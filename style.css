@@ -1,0 +1,21 @@
+body{
+    background-color:#afc1de;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+}
+a{
+    text-decoration:none ;
+    font-weight:900 ;
+    
+}
+#view {
+    font-size:16px;
+    font-weight: 100;
+    border:solid black 1.5px;
+    border-radius:10px;
+    padding:2px 3px;
+    background-color: rgb(209, 214, 214); 
+    color:#000;
+}
+  
+
